@@ -1,15 +1,19 @@
 {
-  "main.css": "static/css/main.9258d479.css",
-  "main.css.map": "static/css/main.9258d479.css.map",
-  "main.js": "static/js/main.8baa3a94.js",
-  "main.js.map": "static/js/main.8baa3a94.js.map",
+  "main.css": "static/css/main.a3eb090c.css",
+  "main.css.map": "static/css/main.a3eb090c.css.map",
+  "main.js": "static/js/main.adbf6d24.js",
+  "main.js.map": "static/js/main.adbf6d24.js.map",
   "static/media/barn_background.png": "static/media/barn_background.acf1e7d2.png",
   "static/media/bernardsville.svg": "static/media/bernardsville.2df8aa33.svg",
+  "static/media/earth.svg": "static/media/earth.eb83e8b2.svg",
   "static/media/far-hills.svg": "static/media/far-hills.520ad47d.svg",
+  "static/media/footer-logo.svg": "static/media/footer-logo.a7409824.svg",
   "static/media/leadership.png": "static/media/leadership.4a045360.png",
+  "static/media/leaf.svg": "static/media/leaf.da26792a.svg",
   "static/media/logo.svg": "static/media/logo.15af9e7e.svg",
   "static/media/mendham-01.svg": "static/media/mendham-01.b7e09982.svg",
   "static/media/peapack-gladstone.svg": "static/media/peapack-gladstone.38624873.svg",
+  "static/media/people.svg": "static/media/people.b328524f.svg",
   "static/media/strategy.png": "static/media/strategy.ec0c23fe.png",
   "static/media/vision.png": "static/media/vision.70fc1711.png"
 }
